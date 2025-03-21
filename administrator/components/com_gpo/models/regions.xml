@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<name>Region</name>
+	<params addpath="/administrator/components/com_gpo/elements">
+	</params>
+</form>

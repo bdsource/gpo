@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Standard Article Layout">
+		<message>
+			<![CDATA[STANDARD ARTICLE LAYOUT DESC]]>
+		</message>
+	</layout>
+	<state>
+		<name>Standard Region Layout</name>
+		<description>Important part is to select a region</description>
+		<url addpath="/administrator/components/com_gpo/elements">
+			<param name="id" type="region" default="0" label="Select Region" description="A Region" />
+		</url>
+		<params>
+		</params>
+	</state>
+</metadata>

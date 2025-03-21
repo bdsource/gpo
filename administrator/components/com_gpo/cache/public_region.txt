@@ -1,0 +1,28 @@
+Africa
+&nbsp;&nbsp;&nbsp;Central Africa
+&nbsp;&nbsp;&nbsp;East Africa
+&nbsp;&nbsp;&nbsp;North Africa
+&nbsp;&nbsp;&nbsp;Southern Africa
+&nbsp;&nbsp;&nbsp;West Africa
+Americas
+&nbsp;&nbsp;&nbsp;Caribbean
+&nbsp;&nbsp;&nbsp;Central America
+&nbsp;&nbsp;&nbsp;South America
+&nbsp;&nbsp;&nbsp;North America
+Asia
+&nbsp;&nbsp;&nbsp;Central Asia
+&nbsp;&nbsp;&nbsp;South Asia
+&nbsp;&nbsp;&nbsp;South East Asia
+&nbsp;&nbsp;&nbsp;East Asia
+&nbsp;&nbsp;&nbsp;West Asia
+Europe
+&nbsp;&nbsp;&nbsp;Eastern Europe
+&nbsp;&nbsp;&nbsp;Northern Europe
+&nbsp;&nbsp;&nbsp;Southern Europe
+&nbsp;&nbsp;&nbsp;Western Europe
+Oceania
+&nbsp;&nbsp;&nbsp;Australia & New Zealand
+&nbsp;&nbsp;&nbsp;Melanesia
+&nbsp;&nbsp;&nbsp;Micronesia
+&nbsp;&nbsp;&nbsp;Polynesia
+United Nations

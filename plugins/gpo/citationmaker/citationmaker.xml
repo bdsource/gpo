@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension  version="3.4" type="plugin" group="gpo">
+	<name>Region ( gpo ) Citation Maker</name>
+	<author>freshteapot(ftp)</author>
+	<creationDate>January 2009</creationDate>
+	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>chris@freshteapot.net</authorEmail>	
+	<authorUrl>www.freshteapot.net</authorUrl>
+	<version>3.4</version>
+	<description>Simple Citations: Swaps a citation for its actual data</description>
+	<files>
+		<filename plugin="citationmaker">citationmaker.php</filename>
+	</files>
+	<params />
+</extension>

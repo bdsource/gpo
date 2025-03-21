@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+    <name>Gun Policy Region Menu ( side bar )</name>
+    <author>Chris Williams</author>
+    <version>1.5.0</version>
+    <description>Gun Policy Region Menu ( side bar ), this aimed to aid in navigation of the regions section</description>
+    <files>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename module="mod_gpo_region_menu">mod_gpo_region_menu.php</filename>
+		<filename>index.html</filename>
+	</files>
+</install>

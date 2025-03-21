@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/component-install.dtd">
+<extension type="component" version="3.4">
+<name>gpo</name>
+<description>Gun Policy</description>
+
+<files folder="site">
+	<filename>index.html</filename>
+	<filename>helpers/index.html</filename>
+	<filename>helpers/route.php</filename>
+	<filename>helpers/gpo.php</filename>
+	<filename>views/article/tmpl/index.html</filename>
+	<filename>views/article/tmpl/default.php</filename>
+	<filename>views/article/index.html</filename>
+	<filename>views/article/view.html.php</filename>
+	<filename>views/search/tmpl/index.html</filename>
+	<filename>views/search/tmpl/default.php</filename>
+	<filename>views/search/index.html</filename>
+	<filename>views/search/view.html.php</filename>
+	<filename>views/latest/tmpl/index.html</filename>
+	<filename>views/latest/tmpl/default.php</filename>
+	<filename>views/latest/index.html</filename>
+	<filename>views/latest/view.html.php</filename>
+	<filename>views/index.html</filename>
+	<filename>models/index.html</filename>
+	<filename>models/article.php</filename>
+	<filename>models/search.php</filename>
+	<filename>gpo.php</filename>
+	<filename>controller.php</filename>
+	<filename>router.php</filename>
+</files>
+<install><sql><file charset="utf8" driver="mysql">install.sql</file></sql></install>
+
+<uninstall><sql><file charset="utf8" driver="mysql">uninstall.sql</file></sql></uninstall>
+
+<administration>
+	<menu>Gun Policy</menu>
+	<submenu>
+		<menu link="option=com_gpo&amp;controller=spiderbait">Spiderbait</menu>
+		<menu link="option=com_gpo&amp;controller=news">News</menu>
+		<menu link="option=com_gpo&amp;controller=quotes">Quotes</menu>
+		<menu link="option=com_gpo&amp;controller=citations">Citations</menu>
+	</submenu>
+
+<files folder="admin">
+	<filename>controllers/index.html</filename>
+	<filename>controllers/spiderbait.php</filename>
+	<filename>controllers/fixlist.php</filename>
+	<filename>models/spiderbait.php</filename>
+	<filename>models/index.html</filename>
+	<filename>tables/spiderbait.php</filename>
+	<filename>tables/index.html</filename>
+	<filename>views/gpo/index.html</filename>
+	<filename>views/gpo/view.html.php</filename>
+	<filename>views/spiderbait/tmpl/index.html</filename>
+	<filename>views/spiderbait/tmpl/default_showall.php</filename>
+	<filename>views/spiderbait/tmpl/default_edit.php</filename>
+	<filename>views/spiderbait/index.html</filename>
+	<filename>views/spiderbait/view.html.php</filename>
+	<filename>index.html</filename>
+	<filename>admin.gpo.php</filename>
+	<filename>controller.php</filename>
+	<filename>install.sql</filename>
+	<filename>uninstall.sql</filename>
+</files>
+</administration>
+</extension>

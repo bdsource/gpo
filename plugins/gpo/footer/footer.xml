@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="gpo">
+	<name>CP Footer</name>
+	<author>freshteapot(ftp)</author>
+	<creationDate>January 2009</creationDate>
+	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>chris@freshteapot.net</authorEmail>	
+	<authorUrl>www.freshteapot.net</authorUrl>
+	<version>3.4</version>
+	<description>CP footer</description>
+	<files>
+		<filename plugin="footer">footer.php</filename>
+	</files>
+	<params />
+</extension>

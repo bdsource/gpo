@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" client="site"
+	method="upgrade">
+    <name>Gun Policy Search Front End</name>
+    <author>Chris Williams</author>
+    <version>2.5.0</version>
+    <description>Gun Policy search function for the front end</description>
+    <files>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename module="mod_gpo_search_frontend">mod_gpo_search_frontend.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>mod_gpo_search_frontend.xml</filename>
+	</files>
+</extension>

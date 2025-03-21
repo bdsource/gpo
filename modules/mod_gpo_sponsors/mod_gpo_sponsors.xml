@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" client="site"
+	method="upgrade">
+    <name>Gun Policy page specific sponsor module (Position: Left)</name>
+    <author>Murshed Ahmmad Khan</author>
+    <version>1.5.0</version>
+    <description>Gun Policy Page specific sponsor html grabber for the front end</description>
+    <files>
+        <filename module="mod_gpo_sponsors">mod_gpo_sponsors.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+ 	<params>
+   		<param name="show_unpublished" type="radio" default="0" label="Load unpublished" description="Load unpublished module also?">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="suffix" type="text" default="" label="Default class suffix" description="Default module class suffix" />
+    </params>
+</extension>

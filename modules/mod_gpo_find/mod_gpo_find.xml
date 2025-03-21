@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.1">
+    <name>Gun Policy Find Regions</name>
+    <author>Chris Williams - Modified by Audra Barclay</author>
+    <version>1.5.1</version>
+    <description>Gun Policy Find Facts  - navigation to regions </description>
+    <files>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+		<filename module="mod_gpo_find">mod_gpo_find.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>mod_gpo_find.xml</filename>
+	</files>
+</install>

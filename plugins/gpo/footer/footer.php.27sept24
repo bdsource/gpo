@@ -1,0 +1,103 @@
+<?php
+defined( '_JEXEC' ) or die( 'Restricted access' );
+$helper_functions = JPATH_ROOT . DS . 'components' . DS . 'com_gpo' . DS .'helpers' . DS . 'footer_helper.php';
+require_once( $helper_functions );
+jimport('joomla.html.parameter');
+$mainframe = JFactory::getApplication();
+//$mainframe->registerEvent( 'onAfterDisplayContent', 'plgGpoFooter' );
+
+final class GpoFooter extends CMSPlugin {
+public function onContentPrepare($context, &$article, &$params, $page = 0)
+{
+    $jinput = JFactory::getApplication()->input;
+	$uri = $jinput->getVar('REQUEST_URI','','SERVER');
+	if( strpos( $uri, 'staff-notes' ) )
+	{
+		return;
+	}
+/*	
+	if( !isset( $article->location_type ) )
+	{
+		return;
+	}
+	if( in_array( $article->location_type, array('region','subregion') ) )
+	{
+		return;
+	}
+*/
+	$now = $jinput->getVar('REQUEST_TIME','','SERVER');
+	$url = JUri::current();
+	$ts_modified = strtotime( $article->modified );
+	$title = empty($article->DPTitle) ? $article->title : $article->DPTitle;
+	
+	$article_authors = footerhelper::getArticleAuthors(); //"Alpers, Philip and Marcus Wilson.";
+    ob_start();
+?>
+<?php
+if( $article_authors === false ) {
+  // footer is unpublished, so output empty divs
+  echo '<h3 id="region-footer-head"></h3>';
+  echo '<div id="region-footer"></div>';	
+} else {
+?>
+<h3 id="region-footer-head"><?php echo JText::_('COM_GPO_PLG_CITATION_FOOTER_HEADER');?></h3>
+<div id="region-footer">
+<span><?php echo $article_authors . " " . date( 'Y.', $ts_modified ) . ' <span class="footer-title">' . GpoEndWith( ".", $title ); ?></span></span>
+<span>Sydney School of Public Health, The University of Sydney. GunPolicy.org, <?php echo date( 'j F.', $ts_modified ); ?></span>
+<span>Accessed <?php echo date( 'j F Y.', $now ); ?> at: <?php echo $url; ?></span>
+</div>
+<?php } ?>
+
+
+<?php
+## DP Sponsors Central Column HTML above Footer ##
+require_once JPATH_SITE.DS."modules".DS."mod_gpo_sponsors".DS."helper.php";
+$DPCentralSponsors = modgposponsorshelper::getSponsors();
+$DPSPHTML = "";
+$mainframe = &JFactory::getApplication();
+$db		   = &JFactory::getDBO();
+if( is_array( $DPCentralSponsors ) )
+{
+    $mods = array();
+    $DPSPHTML = "<br />";
+    foreach( $DPCentralSponsors as $row ) {
+        if( empty($row->module_id) ) {
+		    continue;
+		}
+
+	    // query for specified module then render it
+        $db->setQuery('SELECT * FROM #__modules'
+                    . ' WHERE id = ' . (int) $row->module_id . ' AND published = 1'
+                    . ' AND client_id = ' . (int) $mainframe->getClientId(), 0, 1);
+
+        $mods[] = $db->loadObject();
+    }
+    
+    /* now render the modules */
+    foreach ($mods as $_mod ):
+       if ( is_object( $_mod ) ) {
+    	   $_options = array( 'style' => 'xhtml' );
+    	   //check for moduleclass_sfx parameter
+    	   $paramsdata = $_mod->params;
+    	   //$_params = new JParameter( $paramsdata );
+                      $_params = new JRegistry( $paramsdata );
+    	   $_moduleclass_sfx = $_params->get( 'moduleclass_sfx' );
+    	   if ( $_moduleclass_sfx == 'dp-central-sponsors' ) {
+              $DPSPHTML .= JModuleHelper::renderModule($_mod, $_options);
+           }
+       }
+    endforeach; 
+}
+?>
+
+<?php
+	$html = ob_get_contents();
+	ob_end_clean();
+	//print_r($html);die();
+	//$article->arguments[0]->text = $html .$DPSPHTML; //<-- here is probably the problem
+	print_r($article);die();
+
+}
+
+}
+?>

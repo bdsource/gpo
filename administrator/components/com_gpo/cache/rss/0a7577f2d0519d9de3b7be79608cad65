@@ -1,0 +1,751 @@
+<br />
+<b>Deprecated</b>:  define(): Declaration of case-insensitive constants is deprecated in <b>/home/gpo/public_html/libraries/feedwriter/feedwriter.php</b> on line <b>6</b><br />
+<br />
+<b>Deprecated</b>:  define(): Declaration of case-insensitive constants is deprecated in <b>/home/gpo/public_html/libraries/feedwriter/feedwriter.php</b> on line <b>7</b><br />
+<br />
+<b>Deprecated</b>:  define(): Declaration of case-insensitive constants is deprecated in <b>/home/gpo/public_html/libraries/feedwriter/feedwriter.php</b> on line <b>8</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::short() should not be called statically in <b>/home/gpo/public_html/components/com_gpo/models/rss.php</b> on line <b>187</b><br />
+<br />
+<b>Deprecated</b>:  Non-static method gpo_helper::strip() should not be called statically in <b>/home/gpo/public_html/administrator/components/com_gpo/helper/shared_functions.php</b> on line <b>136</b><br />
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Gun Policy News (gun + World)</title>
+<link>https://alpers.org/</link>
+<description><![CDATA[Daily gun news, small arms policy and firearm violence prevention news.]]></description>
+<language>en-au</language>
+<copyright>Copyright 2024 Alpers.org</copyright>
+<lastBuildDate>Mon, 02 Dec 2024 16:05:41 +0000</lastBuildDate>
+<webMaster>www.gunpolicy.org/contact</webMaster>
+<image><url>https://alpers.org/templates/gunpolicy/images/logo.gif</url>
+<title>Daily gun news, small arms policy and firearm death and injury prevention news.</title>
+<link>https://alpers.org/</link>
+</image>
+<ttl>60</ttl>
+<item>
+<title>U.S. Firearms Threaten Global Security</title>
+<link>http://alpers.org/component/gpo/news/40809?task=news&#38;id=40809</link>
+<author>The Center for American Progress, Web page,  via Alpers.org</author>
+<pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[Introduction and summary
+On April 30, 2024, the U.S. Department of Commerce published policy reforms intended to reduce the risk that U.S. firearms would undermine U.S. foreign policy objectives or contribute to national security concerns overseas.1 Rolled out in a new interim final rule (IFR) that went into effect on May 30, these reforms will increase scrutiny of firearm exports and restrict exports for commercial use in high-risk countries. The IFR comes four years... [The Center for American Progress, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40809?task=news&#38;id=40809</guid>
+</item>
+<item>
+<title>Countries with Highest Gun Ownership</title>
+<link>http://alpers.org/component/gpo/news/40812?task=news&#38;id=40812</link>
+<author>Yahoo! Finance, Web page,  via Alpers.org</author>
+<pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[In this article, we will take a look at the 25 countries with highest gun ownership in 2024. If you want to skip our discussion on the gun industry, you can go directly to the 5 Countries with Highest Gun Ownership in 2024.
+In over 175 countries, civilians are allowed to own guns, but most have regulations in place. These regulations might restrict certain firearm types. For instance, some countries may ban assault weapons. Mexico, Guatemala, and the United States stand... [Yahoo! Finance, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40812?task=news&#38;id=40812</guid>
+</item>
+<item>
+<title>Owning Guns Offers Safety, But Also Some Risks</title>
+<link>http://alpers.org/component/gpo/news/40801?task=news&#38;id=40801</link>
+<author>The Conversation, Web page,  via Alpers.org</author>
+<pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[South Africa has one of the highest homicide rates in the world, eclipsed only by Honduras and a handful of Caribbean island states. Furthermore, South African police crime data shows that South Africans experience above average levels of robbery, assault and rape.
+
+The 2022/23 Victims of Crime survey, which surveyed a representative sample of 42,746 South Africans, showed that the population had been feeling acutely unsafe. Only 37% indicated that they felt safe at... [The Conversation, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40801?task=news&#38;id=40801</guid>
+</item>
+<item>
+<title>Australia Pledges $161.3m for National Firearms Register</title>
+<link>http://alpers.org/component/gpo/news/40794?task=news&#38;id=40794</link>
+<author>Guardian,  via Alpers.org</author>
+<pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[The Australian government has pledged $161.3m to establish the national firearms register, a proposal almost four decades in the making.
+
+On Saturday the attorney general, Mark Dreyfus, will reveal the four-year funding commitment in the May budget to establish the register and reform existing firearms management systems.
+
+National cabinet agreed to the register in December 2023, in what Dreyfus called "the most significant improvement in Australia's firearms management... [Guardian, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40794?task=news&#38;id=40794</guid>
+</item>
+<item>
+<title>South Africa&#38;#039;s Deadly Love Affair With Guns</title>
+<link>http://alpers.org/component/gpo/news/40803?task=news&#38;id=40803</link>
+<author>BBC News, Web page,  via Alpers.org</author>
+<pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[For the last six years Penson Mlotshwa has been carrying a gun with him wherever he goes in the South African city of Johannesburg. To the shops, restaurants and even the gym.
+His gun has become an extension of him as the country battles record levels of crime.
+"I'm not a fortune teller - I never know when I will be attacked," the YouTube content creator told the BBC.
+"Unfortunately, I've had to use my gun multiple times to protect myself," he sighs, explaining how a... [BBC News, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40803?task=news&#38;id=40803</guid>
+</item>
+<item>
+<title>Fatal Police Shootings by German Police in 2022</title>
+<link>http://alpers.org/component/gpo/news/40817?task=news&#38;id=40817</link>
+<author>statewatch, Web page,  via Alpers.org</author>
+<pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[In mid-May, when CILIP first inquired about the current state of the statistics at the Conference of Ministers of the Interior Ministers, they were told that the data was still being processed. At that time, it was not possible to provide an expected completion date due to the preparation for the upcoming meeting of the Ministers of the Interior in Berlin (June 14-16, 2023). After the meeting's conclusion, the firearm statistics were sent at the end of June, accompanied... [statewatch, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40817?task=news&#38;id=40817</guid>
+</item>
+<item>
+<title>New Zealand Firearms Registry to Launch This Week</title>
+<link>http://alpers.org/component/gpo/news/40786?task=news&#38;id=40786</link>
+<author>Radio New Zealand,  via Alpers.org</author>
+<pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[The New Zealand Firearms Registry is set to go live on 24 June, nearly four years after it was proposed in the wake of the Christchurch Mosque terror attacks.
+
+Police and gun control advocates say the system will be an essential tool in reducing firearm harm, but licensed gun owners say they are being unfairly targeted as the source of danger.
+
+After 24 June, the country's nearly 240,000 licensed gun owners have up to five years to register their firearms using the new... [Radio New Zealand, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40786?task=news&#38;id=40786</guid>
+</item>
+<item>
+<title>Gun Laws in Germany</title>
+<link>http://alpers.org/component/gpo/news/40815?task=news&#38;id=40815</link>
+<author>Lingoda, Web page,  via Alpers.org</author>
+<pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[Germany is a nation of contradictions when it comes to guns. The gun laws in Germany strictly regulate who can own a gun and what type; however, the country also has a much higher rate of gun ownership than many other European nations. And while Germany isn't anywhere near the United States in terms of gun ownership rates, it is certainly possible to obtain a firearm there. 
+So who can own a gun in Germany? What can they do with it? And what are the gun laws like in... [Lingoda, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40815?task=news&#38;id=40815</guid>
+</item>
+<item>
+<title>Hamburg Shooting Highlights Germany&#38;#039;s Weak Gun Laws</title>
+<link>http://alpers.org/component/gpo/news/40804?task=news&#38;id=40804</link>
+<author>Guardian, Web page,  via Alpers.org</author>
+<pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[Gun laws in Germany, where weapon ownership is among the highest in Europe, could be further tightened after last week's mass shooting in which seven people, including an unborn child, were killed in a Jehovah's Witness hall in Hamburg.
+The attack has thrown up the perennial question of whether the various parts of the country's federal system are working together, and strengthened the hand of those in the governing coalition who are seeking stronger gun... [Guardian, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40804?task=news&#38;id=40804</guid>
+</item>
+<item>
+<title>Mass Shooting Stuns Germany</title>
+<link>http://alpers.org/component/gpo/news/40811?task=news&#38;id=40811</link>
+<author>Al Jazeera, Web page,  via Alpers.org</author>
+<pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[A gunman in Germany killed six people before turning the weapon on himself at a Jehovah's Witness worship hall in the city of Hamburg, police and prosecutors say.
+The 35-year-old man, a German citizen and former Jehovah's Witness, used a semi-automatic pistol he had legally owned since December in the shooting, a Hamburg state prosecutor said on Friday at a news conference with police.
+A woman who was seven months pregnant was among the injured in Thursday night's... [Al Jazeera, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40811?task=news&#38;id=40811</guid>
+</item>
+<item>
+<title>Rising Gun Crime Angers South Africans</title>
+<link>http://alpers.org/component/gpo/news/40802?task=news&#38;id=40802</link>
+<author>Deutsche Welle, Web page,  via Alpers.org</author>
+<pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[Many South Africans are outraged at the police service, accusing it of doing very little to tackle the country's escalating crime rate.
+
+The latest crime statistics show that more than 7,500 people — including police officers — were murdered in South Africa in the three-month period between October and December 2022.
+
+More than 3,000 of these victims died from gun violence, while the rest were killed with bare hands, bricks, knives and other dangerous... [Deutsche Welle, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40802?task=news&#38;id=40802</guid>
+</item>
+<item>
+<title>How Many Guns Are Circulating in the U.S.?</title>
+<link>http://alpers.org/component/gpo/news/40810?task=news&#38;id=40810</link>
+<author>The Trace, Web page,  via Alpers.org</author>
+<pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[We've heard for years that there are more guns in the U.S. than people, but a precise accounting remains elusive. Federal legislation that would track gun sales or establish a nationwide handgun registry has been proposed — to much resistance from the gun lobby. In lieu of exact figures, we have examined gun owner surveys, industry disclosures, and federal gun background check figures, which provide insights, but are not comprehensive.
+
+Pinpointing the number of guns... [The Trace, Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40810?task=news&#38;id=40810</guid>
+</item>
+<item>
+<title>Liberia Fighting Illicit Arms Trade in West Africa</title>
+<link>http://alpers.org/component/gpo/news/40798?task=news&#38;id=40798</link>
+<author>United Nations Development Program (UNDP),  via Alpers.org</author>
+<pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[Liberia stands out for being the first country in the ECOWAS region to fully domesticate the Arms Trade Treaty by successfully amending the country's Firearms and Ammunition Control Act 2015 to ensure it is fully aligned with the global Arms Trade Treaty.
+
+The country has also repealed the Act establishing the Liberia National Commission on Small Arms (LiNCSA) and passed a new Act upgrading the mandate of the Commission to become the national competent authority for the... [United Nations Development Program (UNDP), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40798?task=news&#38;id=40798</guid>
+</item>
+<item>
+<title>First Year of New Australian Firearm Amnesty Nets 17,000 Guns</title>
+<link>http://alpers.org/component/gpo/news/40782?task=news&#38;id=40782</link>
+<author>Guardian,  via Alpers.org</author>
+<pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+<description><![CDATA[More than 17,000 weapons, including a Vietnam war-era flamethrower, were surrendered in the first year of Australia's national permanent firearms amnesty.
+
+States and territories struck an agreement with the Commonwealth in 2019 to establish an enduring amnesty allowing gun owners to hand in unregistered, illegal, or unwanted firearms without punishment or investigation.
+
+The amnesty began in mid-2021, after Covid-related delays, aiming to claw back some of the roughly... [Guardian, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40782?task=news&#38;id=40782</guid>
+</item>
+<item>
+<title>Warrant Issued for Killer Before He Shot Two Australian Police</title>
+<link>http://alpers.org/component/gpo/news/40781?task=news&#38;id=40781</link>
+<author>Guardian,  via Alpers.org</author>
+<pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Queensland police have revealed there was a warrant issued for Nathaniel Train's arrest in the months before he took part in the Wieambilla shootings, but insist there were no "flags" to indicate officers visiting the property were in danger.
+
+Deputy commissioner Tracy Linford said Train's gun licence had been suspended and an arrest warrant issued after he breached Covid-19 restrictions in December 2021.
+
+During that incident, Train had crossed the border from New... [Guardian, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40781?task=news&#38;id=40781</guid>
+</item>
+<item>
+<title>Gun Homicide Rate Higher in the U.S. Than the E.U.</title>
+<link>http://alpers.org/component/gpo/news/40805?task=news&#38;id=40805</link>
+<author>Austin American-Statesman (Texas), Web page,  via Alpers.org</author>
+<pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Cliff Hayes: "When you compare us to the European Union, we're something like 23 times more likely" to have homicides and handgun killings.
+PolitiFact's ruling: Mostly True
+Here's why: The day after six people died in a mass shooting at a Chesapeake Walmart, Virginia Del. Cliff Hayes Jr., D-Chesapeake, said the nation must discuss why it has so many "homicides and handgun killings."
+"When you compare us here in this country to the European Union, we're something like 23... [Austin American-Statesman (Texas), Web page, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40805?task=news&#38;id=40805</guid>
+</item>
+<item>
+<title>Only Three Countries Have a Constitutional Right to Bear Arms</title>
+<link>http://alpers.org/component/gpo/news/40778?task=news&#38;id=40778</link>
+<author>Business Insider,  via Alpers.org</author>
+<pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[- Only three countries in the world currently have a constitutional right to own a gun: the US, Mexico, and Guatemala.
+- Six other countries used to have a constitutional right to bear arms, but they've since repealed those laws.
+- The US is the only country with a right to keep and bear arms with no constitutional restrictions.
+
+The right to keep and bear arms is a longstanding, often glorified right protected by the US Constitution.
+
+Americans own nearly half of all... [Business Insider, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40778?task=news&#38;id=40778</guid>
+</item>
+<item>
+<title>3D-printed Guns Are On The Rise in Australia</title>
+<link>http://alpers.org/component/gpo/news/40761?task=news&#38;id=40761</link>
+<author>The Conversation (Australia),  via Alpers.org</author>
+<pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Last week, police seized about 80 illegal firearms across Victoria. These included eight homemade firearms, four of which were "military-style weapons", as well as two 3D printers.
+
+This is the latest in a series of seizures of 3D-printed weapons in Australia:
+
+- in 2016, Queensland police discovered a 3D printer in a raid on a "large-scale" firearms production facility
+- in September 2021, New South Wales counter-terrorism police arrested a right-wing extremist for... [The Conversation (Australia), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40761?task=news&#38;id=40761</guid>
+</item>
+<item>
+<title>Germany Plans to Tighten Gun Control</title>
+<link>http://alpers.org/component/gpo/news/40770?task=news&#38;id=40770</link>
+<author>Deutsche Welle,  via Alpers.org</author>
+<pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[The German government is planning to make background checks for potential gun owners even tighter. But questions remain over whether authorities are even equipped to carry out such controls. 
+
+The German government is seeking to impose even stricter background checks on gun ownership in an attempt to prevent political extremists and the psychologically disturbed from buying guns.
+
+The latest call for restrictions comes partly in response to the killings in Hanau in... [Deutsche Welle, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40770?task=news&#38;id=40770</guid>
+</item>
+<item>
+<title>China, Australia Must Not Turn Solomon Islands Into a Gun State</title>
+<link>http://alpers.org/component/gpo/news/40760?task=news&#38;id=40760</link>
+<author>Guardian, Opinion,  via Alpers.org</author>
+<pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[My country once lived in fear of the gun. Thousands of weapons, many stolen from police armouries, fuelled the years of violence known as "the tensions", and disarming the police and population took years. Now, it seems China and Australia want to turn Solomon Islands into a gun state again.
+
+This week Australia announced it would give the Royal Solomon Islands police force 13 vehicles and 60 MK-18 semi-automatic rifles – a move described as a "gamechanger" that... [Guardian, Opinion, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40760?task=news&#38;id=40760</guid>
+</item>
+<item>
+<title>&#38;#039;Ghost guns&#38;#039; and 3D printing: Secret arsenals in Australia</title>
+<link>http://alpers.org/component/gpo/news/40758?task=news&#38;id=40758</link>
+<author>Brisbane Times / Nine,  via Alpers.org</author>
+<pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[KEY POINTS
+- There have been 11 fatal, and 15 non-fatal, shootings in Victoria this year.
+- Police have also seized numerous illicit weapons, including a cache of firearms found hidden in a storage container in Melbourne's outer north. 
+- Many criminals rely on "grey market" guns that should have been relinquished in the 1996 buy-back scheme.
+- The use of 3D printing to create weapons is also becoming more sophisticated and common.
+
+In a storage container on a property... [Brisbane Times / Nine, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40758?task=news&#38;id=40758</guid>
+</item>
+<item>
+<title>The Shoddy Conclusions of the Man Shaping the Gun-Rights Debate</title>
+<link>http://alpers.org/component/gpo/news/40759?task=news&#38;id=40759</link>
+<author>New Yorker / The Trace,  via Alpers.org</author>
+<pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[In 1957, the small-arms manufacturer Armalite created the AR-15—short for Armalite Rifle—at the invitation of the U.S. Army, which was seeking an effective lightweight combat weapon. When the Department of Defense reviewed a version of the rifle in 1962, during the early stages of the Vietnam War, its report stated that the gun's "lethality" and "reliability" were "particularly impressive." From forty-nine feet away, it noted, an Army Ranger fired a round into a... [New Yorker / The Trace, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40759?task=news&#38;id=40759</guid>
+</item>
+<item>
+<title>Firearms Supplied to Ukraine Found in Crime in Scandinavia</title>
+<link>http://alpers.org/component/gpo/news/40750?task=news&#38;id=40750</link>
+<author>YLE (Finland),  via Alpers.org</author>
+<pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Organised crime is growing in Finland and there is a strong demand for weapons. Routes and connections from Ukraine to Finland are already in place. The police are hoping for resources to deal with the increasing workload caused by the war in Ukraine.
+ 
+Soldiers carry weapons in the woods.
+Europol, the European police agency, has warned that international criminals are trying to smuggle weapons from war-torn Ukraine to various EU countries.  Photo by Yasuyoshi Chiba /... [YLE (Finland), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40750?task=news&#38;id=40750</guid>
+</item>
+<item>
+<title>90% of Costa Ricans Disagree With the Possession of Firearms</title>
+<link>http://alpers.org/component/gpo/news/40764?task=news&#38;id=40764</link>
+<author>Observador,  via Alpers.org</author>
+<pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Nine out of 10 Costa Ricans disagreed with gun ownership in Costa Rica. This was reflected in the National Survey on Citizen Security presented last week by the University of Costa Rica and the United Nations Development Programme (UNDP).
+
+This study was applied to 1,222 people, all over the age of 18. It has a confidence level of 95 per cent and an error of 2.8 per cent.
+
+90.1% of those interviewed said they strongly and somewhat disagreed with anyone being able to own... [Observador, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40764?task=news&#38;id=40764</guid>
+</item>
+<item>
+<title>Igarapé and Sou Da Paz Institutes&#38;#039; Notes on the Decision that Prohibits the Transportation of Guns and Ammunition by CACs During Elections</title>
+<link>http://alpers.org/component/gpo/news/40769?task=news&#38;id=40769</link>
+<author>Instituto Sou da Paz,  via Alpers.org</author>
+<pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[On Thursday (29/09), the Superior Electoral Court (TSE) decided to ban the transportation of weapons and ammunition throughout the country by CACs (hunters, sport shooters and collectors) during the election. The restriction will be in effect for 24 hours prior to and 24 hours after the vote.
+
+The decision reinforces the Court's commitment to free and secure elections and comes in the wake of a series of recommendations made by civil society organisations and unions... [Instituto Sou da Paz, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40769?task=news&#38;id=40769</guid>
+</item>
+<item>
+<title>Turkey: One in Three Households Owns a Firearm</title>
+<link>http://alpers.org/component/gpo/news/40773?task=news&#38;id=40773</link>
+<author>Al Monitor,  via Alpers.org</author>
+<pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Thirteen-month-old Kaan Tas was being pushed around a garden by his sister when she noticed blood coming from his head. He died a short while later, the latest young life lost to gun crime in Turkey. 
+
+The Tas family was visiting the southern city of Gaziantep when Kaan was hit in the head on Tuesday evening by a "tired bullet" — a round fired into the air, usually at celebrations such as weddings or send-offs for men starting their military service. The phenomenon is... [Al Monitor, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40773?task=news&#38;id=40773</guid>
+</item>
+<item>
+<title>Brazil Armed by Bolsonaro and His Legacies</title>
+<link>http://alpers.org/component/gpo/news/40766?task=news&#38;id=40766</link>
+<author>Monde (Brazil),  via Alpers.org</author>
+<pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Until 2019 the FAL rifle, produced by Imbel, was only used in the Brazilian Armed Forces, and in a few elite police units. In automatic mode, it is capable of firing bursts with up to 700 shots per minute. It also launches projectiles at 840 metres per second, and can hit a target with great effectiveness from up to 600 metres away. Because of its power to pierce armour, it has always been coveted by organised crime and bank robbery gangs. Before the Bolsonaro... [Monde (Brazil), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40766?task=news&#38;id=40766</guid>
+</item>
+<item>
+<title>Bolsonaro&#38;#039;s Gun Laws Arm Brazil&#38;#039;s Brazen Bank Thieves</title>
+<link>http://alpers.org/component/gpo/news/40716?task=news&#38;id=40716</link>
+<author>Reuters,  via Alpers.org</author>
+<pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[In August last year, Brazilian farmer Reinaldo Huijsmans reported a break-in at his house in the town of Maracaju, where thieves stole six legally registered weapons, including a T4 Taurus assault rifle.
+
+Huijsmans, 39, is one of hundreds of thousands of Brazilians now registered to own guns, a group whose ranks have surged six-fold since far-right President Jair Bolsonaro was elected in 2018 and began loosening gun laws.
+
+Two months later, Huijsmans' T4 turned up 1,300... [Reuters, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40716?task=news&#38;id=40716</guid>
+</item>
+<item>
+<title>Gun Ownership in Costa Rica</title>
+<link>http://alpers.org/component/gpo/news/40763?task=news&#38;id=40763</link>
+<author>Teletica.com (Costa Rica),  via Alpers.org</author>
+<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Muggings are now a familiar element for Costa Ricans and are one of the most common crimes committed in the country, with at least one per hour on any given day of the year.
+
+Since weapons are one of the most common tools used by criminals to commit this type of crime, it is worth reviewing some figures on the possession of weapons in the country.
+
+There are 217,000 registered arms in Costa Rica, but only 18,000 people have a permit to carry them, a proportion that... [Teletica.com (Costa Rica), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40763?task=news&#38;id=40763</guid>
+</item>
+<item>
+<title>Saudi Women Take Up Shooting After Gun Ownership Legalized</title>
+<link>http://alpers.org/component/gpo/news/40777?task=news&#38;id=40777</link>
+<author>Saudi Gazette,  via Alpers.org</author>
+<pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Saudi women can now legally lock and load. In barely two years, Saudi women have earned the right to both drive and to own a firearm. While women have been legally behind the wheel since 2019, it was only last year that they were allowed to own firearms.
+
+During the COVID-19 pandemic, shooting became popular with many Saudis as a social distanced and outdoor activity. Yet, some women have been shooting for far longer.
+
+"At a young age my father taught me how to use and... [Saudi Gazette, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40777?task=news&#38;id=40777</guid>
+</item>
+<item>
+<title>Booming Gun Ownership Triggers Fears for Brazil Vote</title>
+<link>http://alpers.org/component/gpo/news/40767?task=news&#38;id=40767</link>
+<author>France24,  via Alpers.org</author>
+<pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Clutching his bulky black rifle at a firing range in the Rio de Janeiro suburbs, a handgun strapped to his thigh, Freitas proudly repeats one of far-right President Jair Bolsonaro's maxims: "An armed populace will never be enslaved."
+
+Freitas is part of a demographic that has boomed in Bolsonaro's Brazil: since the former army captain became president in 2019, the number of registered gun owners has more than quintupled, from 117,000 to 673,000, as the administration... [France24, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40767?task=news&#38;id=40767</guid>
+</item>
+<item>
+<title>Court Suspends Bolsonaro&#38;#039;s Gun Law Over Risk of Political Violence</title>
+<link>http://alpers.org/component/gpo/news/40732?task=news&#38;id=40732</link>
+<author>Plataforma,  via Alpers.org</author>
+<pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA["O início da campanha eleitoral exaspera o risco de violência política", o que "torna de extrema e excecional urgência a necessidade" de se restringir o acesso às armas e munições", escreveu Fachin.
+
+O juiz disse ter tomado a decisão "à luz dos recentes e lamentáveis episódios de violência política", sem especificar se se referia a eventos nacionais como o assassinato a tiros de um tesoureiro do Partido dos Trabalhadores (PT) por um agente bolsonarista ou... [Plataforma, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40732?task=news&#38;id=40732</guid>
+</item>
+<item>
+<title>Mexico&#38;#039;s Bold Move Against Gun Companies</title>
+<link>http://alpers.org/component/gpo/news/40695?task=news&#38;id=40695</link>
+<author>Arms Control Association,  via Alpers.org</author>
+<pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Of 193 member states of the United Nations, Mexico has the fifth-largest number of unregistered firearms in civilian hands, behind the United States, India, China, and Pakistan.(1) This availability of firearms and the violence it enables have major destructive consequences. In Mexico, guns are the weapon of choice in 70 percent of total homicides and 60 percent of homicides committed against women. Guns are also the main tool in homicides of young people.
+
+Gun violence... [Arms Control Association, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40695?task=news&#38;id=40695</guid>
+</item>
+<item>
+<title>Firearms Injuries and Deaths Increasing in New Zealand</title>
+<link>http://alpers.org/component/gpo/news/40785?task=news&#38;id=40785</link>
+<author>Radio New Zealand,  via Alpers.org</author>
+<pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Data released by police under the Official Information Act shows 10 murder or manslaughter deaths in 2022, up until 31 July. There were 11 in total in 2021.
+
+Injuries are also running at a record rate, on track to exceed 300 firearm-related injuries for the first time. In 2021, there were 298 gun-related injuries recorded by police, the highest ever.
+
+That was despite a year on year drop in the number of firearms-related crimes police have had to deal with.
+
+In 2021,... [Radio New Zealand, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40785?task=news&#38;id=40785</guid>
+</item>
+<item>
+<title>Jamaica and Haiti Swap Drugs and Guns</title>
+<link>http://alpers.org/component/gpo/news/40681?task=news&#38;id=40681</link>
+<author>InSight Crime,  via Alpers.org</author>
+<pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Criminal gangs in Jamaica and Haiti are engaged in a deadly trade: the exchange of marijuana for guns.
+
+Boats loaded with up to 3,000 pounds of cannabis take off from Jamaica's coastline, speeding across the Caribbean to nearby Haiti, where the drugs are swapped for handguns and high-powered assault weapons. The boats return with the firearms, which are then sold off piecemeal or in bulk.
+
+The guns-for-drugs trade, as it is known in Jamaica, is greased by traffickers... [InSight Crime, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40681?task=news&#38;id=40681</guid>
+</item>
+<item>
+<title>Five Killed in Gun Attack and Explosion in Port City in Ecuador</title>
+<link>http://alpers.org/component/gpo/news/40749?task=news&#38;id=40749</link>
+<author>Independent (Ireland),  via Alpers.org</author>
+<pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Gunfire and a subsequent explosion has left at least five people dead, 15 injured and several others missing, as well as damaging homes, in the Ecuadorian port city of Guayaquil.
+
+Ecuador's Prosecutor's Office said its agents were gathering evidence to establish the cause and motive for the attack in the Cristo del Consuelo neighbourhood.
+
+Interior minister Patricio Carrillo tweeted that organised crime in Ecuador is now attacking with explosives.
+
+Sunday's violence "is... [Independent (Ireland), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40749?task=news&#38;id=40749</guid>
+</item>
+<item>
+<title>Uruguay Becoming Arms Trafficking Hub Between Argentina and Brazil</title>
+<link>http://alpers.org/component/gpo/news/40684?task=news&#38;id=40684</link>
+<author>InSight Crime,  via Alpers.org</author>
+<pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Uruguay has been making regular seizures of weapons smuggled in from Argentina, indicating that the country is becoming a preferred transit hub for arms traffickers.
+
+In the latest case, ten people were convicted of arms and ammunition trafficking in early August, according to Uruguay's Interior Ministry.
+
+Beginning last November, Uruguayan authorities uncovered a network smuggling weapons into the country's Soriano and Río Negro departments.
+
+In late July, security... [InSight Crime, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40684?task=news&#38;id=40684</guid>
+</item>
+<item>
+<title>The Guns of Yemen</title>
+<link>http://alpers.org/component/gpo/news/40708?task=news&#38;id=40708</link>
+<author>Small Arms Review,  via Alpers.org</author>
+<pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Its society beset by civil wars in the last fifty years, Yemen is awash in small arms. Nearly every Yemeni male over the age of ten carries some form of weapon, from the traditional jambiya (curved dagger) to assault rifles, as personal apparel and icons of masculinity. In the remote mountains and wadis, open carry of an assault rifle is not only common and widely accepted, but is considered de rigueur. Even heavy weapons such as the DsHk 12.7 machine guns and RPG-7s... [Small Arms Review, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40708?task=news&#38;id=40708</guid>
+</item>
+<item>
+<title>Dozens of 3D-printed Firearms Sold at Buyback in Houston, Texas</title>
+<link>http://alpers.org/component/gpo/news/40666?task=news&#38;id=40666</link>
+<author>Fox 26 Houston (Texas),  via Alpers.org</author>
+<pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Houston leaders say they will no longer accept 3D-printed firearms, also known as ghost guns, at future gun buyback events after one man allegedly exchanged dozens of them over the weekend.
+
+"We're going to exclude those next time around," said Mayor Sylvester Turner. "This is a program designed for people who want to voluntarily relinquish their guns."
+
+On Saturday, city officials held their first gun buyback event in Houston. The mayor's office says more than 840... [Fox 26 Houston (Texas), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40666?task=news&#38;id=40666</guid>
+</item>
+<item>
+<title>Jamaica to Introduce the The Firearms (Prohibition, Restriction and Regulation) Act, 2022</title>
+<link>http://alpers.org/component/gpo/news/40674?task=news&#38;id=40674</link>
+<author>Jamaica Information Service,  via Alpers.org</author>
+<pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[The House of Representatives recently approved the report and recommendations of the Joint Select Committee on the Firearms (Prohibition, Restriction and Regulation) Act (2022).
+
+The Report outlines the recommended changes to the Bill, following the review and deliberations of the Joint Select Committee.
+
+"Having regard to the number of amendments, it is proposed that the original Bill that was tabled on February 10, 2022, be withdrawn and a new amended Bill be tabled,"... [Jamaica Information Service, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40674?task=news&#38;id=40674</guid>
+</item>
+<item>
+<title>Botswana Experiences Sharp Decline in Civilian Gun Licence Applications</title>
+<link>http://alpers.org/component/gpo/news/40738?task=news&#38;id=40738</link>
+<author>News24 (South Africa),  via Alpers.org</author>
+<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[- About 14 000 civilians in Botswana applied for firearm licences compared to around 35 000 last year.
+- Less than 300 licenses were granted after a public raffle.
+- Botswana police say armed robbers in Botswana are a syndicate also operating in South Africa.
+
+There was a sharp decline in the number of civilians applying for gun licences in Botswana this year compared to 2021.
+
+"This year, the Botswana Police Service (BPS) received 7 274 applications for licences to... [News24 (South Africa), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40738?task=news&#38;id=40738</guid>
+</item>
+<item>
+<title>Dominican Gun Dealers Scoff at Import Ban</title>
+<link>http://alpers.org/component/gpo/news/40743?task=news&#38;id=40743</link>
+<author>Dominican Today,  via Alpers.org</author>
+<pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Santo Domingo -- In four years, the Ministry of the Interior and Police issued 57 permits to import firearms, although a decree prohibits doing so.
+
+The entity does not know how many weapons have been introduced into the national territory despite the that the law empowers it to establish the maximum and amount that must be imported by each gun shop.
+
+With an unreliable database, as admitted by the deputy minister of weapons, Aníbal Amparo García, the institution... [Dominican Today, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40743?task=news&#38;id=40743</guid>
+</item>
+<item>
+<title>Women Living in Terror Because Their Ex-partners Have Guns</title>
+<link>http://alpers.org/component/gpo/news/40670?task=news&#38;id=40670</link>
+<author>Instituto de Estudios Comparados en Ciencias Penales y Sociales (INECIP),  via Alpers.org</author>
+<pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[During 2021 there were 251 femicides across the country and in 25 per cent of these a weapon was used; there is consensus that possession is often a projection of the power of the person who has it and a latent threat; the speed of justice and voluntary disarmament are key to addressing the problem. In the opinion of Aldana Romano, Director of INECIP.
+
+When mutual friends introduced them to each other during a holiday, Marcela fell in love with Valentín. Although she... [Instituto de Estudios Comparados en Ciencias Penales y Sociales (INECIP), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40670?task=news&#38;id=40670</guid>
+</item>
+<item>
+<title>Honduras: 36 guns a day registered in the last 10 years</title>
+<link>http://alpers.org/component/gpo/news/40780?task=news&#38;id=40780</link>
+<author>Heraldo,  via Alpers.org</author>
+<pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Capital citizens are armour-plated: 36 guns a day have been registered in the last 10 years.
+
+Although the sport of shooting is one of the reasons for the boom in gun ownership in recent years, specialists recognise that the main motivation for owning a firearm is self-defence.
+
+With the motto "it is better to have a gun and not need it than to need it and not have it", Juan, 68, has carried his pistol most of his life and, because of his profession, was forced to... [Heraldo, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40780?task=news&#38;id=40780</guid>
+</item>
+<item>
+<title>Firearms in Uruguay: Lack of Information and Controls</title>
+<link>http://alpers.org/component/gpo/news/40710?task=news&#38;id=40710</link>
+<author>La Diaria Opinion (Uruguay),  via Alpers.org</author>
+<pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Firearms: lack of information and controls
+
+In recent weeks, some media outlets, parts of the political system and academia have addressed the issue of firearms control through a bill proposed by Frente Amplio senator Mario Bergara. The fact that a serious debate is beginning to take place on this issue is, in itself, good news.
+
+According to official information from the Material and Arms Service of the Ministry of National Defence, the body in charge of the National... [La Diaria Opinion (Uruguay), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40710?task=news&#38;id=40710</guid>
+</item>
+<item>
+<title>Turkey Has 627,765 Gun Owners Licensed to Carry</title>
+<link>http://alpers.org/component/gpo/news/40774?task=news&#38;id=40774</link>
+<author>Agenda (Turkey),  via Alpers.org</author>
+<pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[In the statement made by the EGM, it was stated that "individual armament has increased and there are 25 million unlicensed and 2.5 million licensed guns in Turkey" on a website with "falsified" information.
+
+In the statement, which stated that they had to publish a denial because of a similar news before, it was emphasized that the fight against fake news on this issue would continue.
+
+Noting that there has been a decrease in the number of newly issued licensed guns in... [Agenda (Turkey), via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40774?task=news&#38;id=40774</guid>
+</item>
+<item>
+<title>Scandal at Haiti Customs After Over 100,000 Rounds of Smuggled Ammunition Seized</title>
+<link>http://alpers.org/component/gpo/news/40683?task=news&#38;id=40683</link>
+<author>InSight Crime,  via Alpers.org</author>
+<pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[Haiti's Customs Agency has seized an extremely large quantity of illegally imported ammunition the same day that its director was replaced on suspicion of arms trafficking, highlighting the Caribbean nation's struggle in combating weapons flows.
+
+On July 1, customs and police authorities interdicted roughly 120,000 rounds of ammunition on board a container ship at Port-au-Paix wharf. The illegal cargo, which had come from the US state of Florida, was almost entirely... [InSight Crime, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40683?task=news&#38;id=40683</guid>
+</item>
+<item>
+<title>Japan&#38;#039;s Strict Gun Laws Make Shootings Rare</title>
+<link>http://alpers.org/component/gpo/news/40660?task=news&#38;id=40660</link>
+<author>CNN,  via Alpers.org</author>
+<pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+<description><![CDATA[The assassination of former Japanese Prime Minister Shinzo Abe has shocked Japan, a country with one of the world's lowest rates of gun crime due to its strict laws on gun ownership.
+
+Abe was shot dead on Friday in the city of Nara while delivering a campaign speech, Prime Minister Fumio Kishida said.
+
+Gun violence is extremely rare in Japan.
+
+In 2018, Japan, a country of 125 million people, only reported nine deaths from firearms -- compared with 39,740 that year in... [CNN, via Alpers.org]]]></description>
+<guid>http://alpers.org/component/gpo/news/40660?task=news&#38;id=40660</guid>
+</item>
+</channel>
+</rss>

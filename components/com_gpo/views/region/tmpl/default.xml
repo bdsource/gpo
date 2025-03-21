@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Region Layout">
+		<message>
+			<![CDATA[STANDARD ARTICLE LAYOUT DESC]]>
+		</message>
+	</layout>
+	<!-- Add fields to the parameters object for the layout. -->
+	<!--<fields name="params">-->
+
+		<!-- Basic options. -->
+	<!--	<fieldset name="basic" addpath="/administrator/components/com_gpo/elements">-->
+	<!--		<param name="id" type="region" default="0" label="Select Region" description="A Region" />-->
+	<!--	</fieldset>-->
+	<!--</fields>-->
+</metadata>

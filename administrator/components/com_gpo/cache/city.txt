@@ -1,0 +1,386 @@
+Alexandria, VA
+Alofi
+Amman
+Amsterdam
+Anchorage AL
+Anchorage, AL
+Annapolis MD
+Annapolis, MD
+Apia
+Arlington VA
+Arlington, VA
+Arusha
+Athens
+Atlanta GA
+Atlanta, GA
+Auckland
+Augusta ME
+Augusta, ME
+Austin TX
+Austin, TX
+Avarua
+Baltimore MD
+Baltimore, MD
+Bangkok
+Baton-Rouge, LA
+Beijing
+Belgrade
+Bellevue WA
+Bellevue, WA
+Berlin
+Bern
+Bethesda MD
+Bethesda, MD
+Bismarck ND
+Bismarck, ND
+Blantyre
+Bloemfontein
+Bogotá
+Boise ID
+Boise, ID
+Bonn
+Boston MA
+Boston, MA
+Brasilia
+Brescia
+Brisbane
+Brussels
+Budapest
+Buenos Aires
+Bâton-Rouge LA
+Cairo
+Calgary
+Calgary AB
+Calgary, AB
+Cambridge
+Cambridge MA
+Cambridge, MA
+Canberra
+Cape Town
+Caracas
+Carson City NV
+Carson City, NV
+Charleston WV
+Charleston, WV
+Charlottesville VA
+Charlottesville, VA
+Cheyenne WY
+Cheyenne, WY
+Chicago IL
+Chicago, IL
+Christchurch
+Colombo
+Columbia SC
+Columbia, SC
+Columbus OH
+Columbus, OH
+Concord NH
+Concord, NH
+Copenhagen
+Danao
+Darwin
+Delhi
+Denver CO
+Denver, CO
+Des Moines IA
+Des Moines, IA
+Dhaka
+Dili
+Dover DE
+Dover, DE
+Dubai
+Dublin
+Dunedin
+Durban
+Durham NC
+Durham, NC
+Edinburgh
+Edmonton
+Edmonton AB
+Edmonton, AB
+Fairfax VA
+Fairfax, VA
+Fort Worth TX
+Fort Worth, TX
+Frankfort KY
+Frankfort, KY
+Frankfurt
+Funafuti
+Gaza
+Geneva
+Golden CO
+Golden, CO
+Goroka
+Gramsh
+Greymouth
+Grozny
+Guam
+Guatemala City
+Hagatna
+Hamilton
+Harrisburg PA
+Harrisburg, PA
+Hartford CT
+Hartford, CT
+Hastings
+Heidelberg
+Helena MT
+Helena, MT
+Helsinki
+Hobart
+Hong Kong
+Honiara
+Honolulu
+Honolulu HI
+Honolulu, HI
+Houston TX
+Houston, TX
+Hyattsville MD
+Hyattsville, MD
+Indianapolis IN
+Indianapolis, IN
+Istanbul
+Izhevsk
+Jackson MS
+Jackson, MS
+Jakarta
+Jefferson City MO
+Jefferson City, MO
+Jerusalem
+Johannesburg
+Juneau AK
+Juneau, AK
+Kamloops
+Kamloops BC
+Kamloops, BC
+Kampala
+Kazakhstan
+Kiev
+Kingston
+Kingston ON
+Kingston, ON
+Kolkata
+Koror
+Kosovo
+Kuala Lumpur
+Lagos
+Langley VA
+Langley, VA
+Lansing MI
+Lansing, MI
+Lausanne
+Lincoln NE
+Lincoln, NE
+Little Rock AR
+Little Rock, AR
+Liverpool
+Ljubljana
+London
+Los Angeles CA
+Los Angeles, CA
+Louisville KY
+Louisville, KY
+Lower Hutt
+Lusaka
+Macon GA
+Macon, GA
+Madison WI
+Madison, WI
+Madrid
+Majuro
+Malibu CA
+Malibu, CA
+Manila
+Mannheim
+Manukau
+Medellin
+Melbourne
+Memphis TN
+Memphis, TN
+Mendoza
+Miami FL
+Miami, FL
+Milwaukee WI
+Milwaukee, WI
+Miramichi
+Miramichi NB
+Miramichi, NB
+Mogadishu
+Monash
+Monrovia
+Montevideo
+Montgomery AL
+Montgomery, AL
+Montpelier VT
+Montpelier, VT
+Montreal
+Montreal QC
+Montreal, QC
+Moscow
+Munich
+Nadi
+Nairobi
+Nashville TN
+Nashville, TN
+Nassau
+Naypyidaw
+Nedlands
+New Brunswick NJ
+New Brunswick, NJ
+New Delhi
+New Orleans LA
+New Orleans, LA
+New York NY
+New York, NY
+Newington CT
+Newington, CT
+Newton MA
+Newton, MA
+Northampton MA
+Northampton, MA
+Noumea
+Nouméa
+Nuku'alofa
+Nuremberg
+Oakland CA
+Oakland, CA
+Oklahoma City OK
+Oklahoma City, OK
+Olympia WA
+Olympia, WA
+Onehunga
+Orlando FL
+Orlando, FL
+Oslo
+Ottawa
+Ottawa ON
+Ottawa, ON
+Oxford
+Pago Pago
+Palikir
+Palmetto
+Palo Alto CA
+Palo Alto, CA
+Papakura
+Paris
+Perth
+Philadelphia PA
+Philadelphia, PA
+Phnom Penh
+Phoenix AZ
+Phoenix, AZ
+Pierre SD
+Pierre, SD
+Pitcairn
+Port Moresby
+Port Vila
+Portland ME
+Portland OR
+Portland, ME
+Portland, OR
+Porto Alegre
+Prague
+Pretoria
+Princeton NJ
+Princeton, NJ
+Pristina
+Providence RI
+Providence, RI
+Quantico VA
+Quantico, VA
+Quebec
+Quebec QC
+Quebec, QC
+Raleigh NC
+Raleigh, NC
+Ramallah
+Richmond VA
+Richmond, VA
+Rio de Janeiro
+Rockville
+Rome
+Rotorua
+Sacramento CA
+Sacramento, CA
+Saipan
+Salem OR
+Salem, OR
+Salt Lake City UT
+Salt Lake City, UT
+San Diego CA
+San Diego, CA
+San Francisco CA
+San Francisco, CA
+San Juan
+Sana'a
+Santa Fe NM
+Santa Fe, NM
+Santa Rosa CA
+Santa Rosa, CA
+Sao Paulo
+Scarborough
+Scarborough ON
+Shropshire
+Singapore
+Sofia
+Soweto
+Springfield IL
+Springfield, IL
+St John's
+St John's NL
+St John's, NL
+St Louis MO
+St Louis, MO
+St Paul MN
+St Paul, MN
+Stellenbosch
+Stockholm
+Suitland, MD
+Suva
+Sydney
+Taipei
+Tallahassee FL
+Tallahassee, FL
+Tampa FL
+Tampa, FL
+Tehran
+Tel Aviv
+Test
+The Hague
+Tirana
+Tokyo
+Topeka KS
+Topeka, KS
+Toronto
+Toronto ON
+Toronto, ON
+Trenton NJ
+Trenton, NJ
+Tshwane
+Ulan Bator
+Vancouver
+Vancouver BC
+Vancouver, BC
+Versailles
+Victoria BC
+Victoria, BC
+Vienna
+Wanganui
+Washington DC
+Washington, DC
+Waterloo ON
+Waterloo, ON
+Wellington
+West Hartford
+West Hartford CT
+West Hartford, CT
+Westport CT
+Westport, CT
+Whangarei
+Yaren
+Yorkton
+Yosset NY
+Yosset, NY
+Yuba City
+Zagreb
+Zurich

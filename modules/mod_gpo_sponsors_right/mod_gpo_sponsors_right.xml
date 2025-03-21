@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0">
+<name>GPO Sponsors Credit (Right Column)</name>
+    <creationDate>March 2015</creationDate>
+    <copyright>Copyright (c) 2003-2015 GPO</copyright>
+    <license>Private</license>
+  	<authorEmail>khan.morshed@gmail.com</authorEmail>
+  	<authorUrl>www.usamurai.com</authorUrl>
+  	<version>1.5.1</version>
+    <description>GPO Sponsors Credit to be displayed in the Right Column</description>
+    <files>
+      <filename module="mod_gpo_sponsors_right">mod_gpo_sponsors_right.php</filename>
+      <filename>index.html</filename>
+      <filename>helper.php</filename>
+      <filename>tmpl/default.php</filename>
+      <filename>tmpl/index.html</filename>
+    </files>
+	
+    <languages>
+		<language tag="en-GB">en-GB/en-GB.mod_gpo_sponsors_right.ini</language>
+	</languages>
+    
+	<config>
+		<fields name="params">
+		<fieldset name="basic">
+			<field name="show_unpublished" type="radio" default="0" label="Load unpublished" description="Load unpublished module also?">
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </field>
+			<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+		</fieldset>
+		</fields>
+	</config>
+</extension>

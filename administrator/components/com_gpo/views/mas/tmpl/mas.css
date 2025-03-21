@@ -1,0 +1,83 @@
+<style>
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 29, 2016, 7:09:53 PM
+    Author     : admin
+*/
+
+/* for template default_edit */ 
+input[type=number].::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+  }
+
+.error_warning{color:#ff0000;}
+#message_box a{display:block;}
+#adminForm{
+	background-color:#b19cd9;
+	padding:10px;
+}
+table.adminlist {
+    width: 100% !important;
+    text-align: center;
+}
+/*#adminForm p label{display:block;padding-right:10px;}*/
+.input_field{width:370px;}
+
+.clear{float:none;}
+
+
+.row{
+	clear:both;
+	display:block;
+	padding:0px;
+	margin:0px auto;
+}
+.cell{
+	float:left;
+	padding:0px;
+	margin:0px auto;
+}
+.cell label{
+	padding:0px;
+	margin:0px auto;
+	display:inline;
+}
+
+.published{
+	width:120px;
+}
+
+.right_col {
+    padding-left: 2px;
+}
+.clear{
+	clear:both;
+}
+#mas_txt_locations a{padding-left:5px;}
+#adminForm p{margin:1px auto;line-height:15px;padding:1px;font-size:13px;}
+.location_txt{font-size:13px;}
+
+#mas_published{text-align:center;}
+
+.not-editable{
+	background-color: #e9e9e9;
+}
+#tool-tip-box{
+	width:250px;
+	border:1px solid #cccccc;
+	background-color: #ccff99;
+	color:#000000;
+}
+
+.nav-tabs > li > a {
+    color: mediumblue;
+    font-weight: bold;
+}
+ 
+ 
+</style>
